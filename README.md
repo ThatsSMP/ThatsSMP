@@ -1,3 +1,3 @@
-#IP
+# IP:
 
-#thatssmp.minekeep.gg
+# thatssmp.minekeep.gg
